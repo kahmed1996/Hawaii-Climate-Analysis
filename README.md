@@ -1,26 +1,5 @@
 # Hawaii-Climate-Analysis
 
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@kahmed1996 
-0
-0 0 kahmed1996/Hawaii-Climate-Analysis
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Security  Insights  Settings
-Hawaii-Climate-Analysis/README.txt
-@kahmed1996 kahmed1996 update 1
-27cf2b8 3 minutes ago
-149 lines (75 sloc)  5.7 KB
-    
-﻿# Surfs Up!
-
-![surfs-up.jpeg](Images/surfs-up.png)
 
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
 
